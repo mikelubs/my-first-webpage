@@ -1,0 +1,41 @@
+h1{
+  color: #99c288;
+  text-align: center;
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+h2 {
+  color: #888;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+  line-height: 15px;
+}
+
+h3{
+  line-height: 15px;
+  font-family: monospace;
+  font-size: normal;
+}
+
+img {
+  max-width: 45%;
+  float: left;
+}
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  max-width: 45%;
+  color: #12b931;
+}
+
+a {
+  text-decoration: none;
+  color: #12b68a;
+}
+
+ul {
+  list-style: none;
+}
