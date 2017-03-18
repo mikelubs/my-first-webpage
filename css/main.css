@@ -1,8 +1,8 @@
 h1{
-  color: #99c288;
   text-align: center;
   font-family: monospace;
   font-weight: lighter;
+  olor: #ff0000;
 }
 
 h2 {
@@ -11,6 +11,7 @@ h2 {
   font-family: sans-serif;
   font-weight: lighter;
   line-height: 15px;
+  font-style: italic;
 }
 
 h3{
@@ -29,6 +30,9 @@ p {
   font-family: sans-serif;
   max-width: 45%;
   color: #12b931;
+  line-height: 5px;
+  text-align: center;
+  font-weight: lighter;
 }
 
 a {
@@ -38,4 +42,9 @@ a {
 
 ul {
   list-style: none;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+  font-family: sans-serif;
+  text-align: center;
 }
